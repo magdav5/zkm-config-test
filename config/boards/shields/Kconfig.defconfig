@@ -3,4 +3,4 @@ if SHIELD_THUMB
 config ZMK_KEYBOARD_NAME
 	default "thumb"
 	
-	endif
+endif
